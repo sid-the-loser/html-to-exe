@@ -10,5 +10,5 @@ Just run the program,
 - Opening up the config.yml file and changing the "file-to-load" setting to a path of your liking!
 - Please make sure to put the html file inside the directory in which the "HTML-TO-EXE.exe" is placed! (If you mess it up...too bad!)
 ## please leave me alone
-I will update this is I want to. I am not very interested in this project anyways!
+I will update this if I want to. I am not very interested in this project anyways!
 # GOOD BYE!

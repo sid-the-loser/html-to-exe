@@ -3,6 +3,14 @@ import webbrowser
 import yaml
 import os
 import random
+try:
+    import pyi_splash
+except:
+    pass
+try:
+    pyi_splash.close()
+except:
+    pass
 
 settings = {
     "random-port":False,

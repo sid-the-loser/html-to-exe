@@ -1,1 +1,1 @@
-pyinstaller --noconfirm --onefile --console --icon "C:\Users\sidha\OneDrive\Documents\Projects\Python and HTML to EXE Project\html_to_exe_icon_gZa_icon.ico" --name "HTML-TO-EXE" --splash "C:\Users\sidha\OneDrive\Documents\Projects\Python and HTML to EXE Project\html-to-exe-icon.png"  "C:\Users\sidha\OneDrive\Documents\Projects\Python and HTML to EXE Project\main.py"
+pyinstaller --noconfirm --onefile --console --icon "html_to_exe_icon_gZa_icon.ico" --name "HTML-TO-EXE" --splash "html-to-exe-icon.png"  "main.py"
